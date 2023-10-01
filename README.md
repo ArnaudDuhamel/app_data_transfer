@@ -1,4 +1,4 @@
-# Android BMI calculator app with Jetpack Compose
+# Sample Android app transfering data between two activities
 
 This application is based on the tutorial at this link: https://www.geeksforgeeks.org/how-to-send-data-from-one-activity-to-second-activity-in-android/
 
